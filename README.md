@@ -1,0 +1,2 @@
+# supermarket_backgroud_management_system
+后台超市管理系统，springboot框架整合mybatis、shiro
